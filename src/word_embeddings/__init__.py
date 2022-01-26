@@ -1,0 +1,3 @@
+from word_embeddings.word_embedder import WordEmbedder
+from word_embeddings.word2vec_embedder import Word2VecEmbedder
+from word_embeddings.pretrained_embedder import PreTrainedEmbedder
